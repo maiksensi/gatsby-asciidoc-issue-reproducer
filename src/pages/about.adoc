@@ -1,0 +1,14 @@
+= This is a hello
+:source-highlighter: highlightjs
+
+Some text
+
+== Second title
+[source,javascript]
+----
+export fun = () => {
+  console.log("This is fun");
+}
+----
+
+more fun.
